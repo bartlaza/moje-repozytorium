@@ -5,7 +5,7 @@ dasdadadadada# include <stdio.h>gfdgfdggfdgdfgdfg
 
 main()
 {
- clrscr;
+ clrscr;dsddddddddddddddddddddddddd
  int x,y,i;
 
  cout<<"Podaj wysokosc ramki         : ";cin>>y;
