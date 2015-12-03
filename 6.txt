@@ -1,0 +1,23 @@
+#include<iostream.h>
+#include<conio.h>
+
+main()
+{
+const int a=10;   //ilosc liczb do podania
+
+int ilosc=0,liczba;
+for (int i=0;i<a;i++)
+  {
+  cout<<"Podaj liczbe "<<i+1<<"    : ";
+  cin>>liczba;
+  if (liczba%2==0) {ilosc++;};
+  }
+cout<<endl;
+cout<<"Liczb parzystych jest : "<<ilosc;
+
+
+
+getch();
+}
+
+

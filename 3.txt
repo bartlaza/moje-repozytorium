@@ -1,0 +1,20 @@
+#include<iostream.h>
+
+
+main()
+{
+int max,liczba;
+
+
+cout<<"podaj wartosci:"<<endl;
+cin>>liczba;
+max=liczba;
+while (liczba!=0) {
+
+  if (max<liczba) {max=liczba;}
+	 cin>>liczba;  }
+
+cout<<"najwieksza liczba wynosi :" <<max<<endl;
+
+}
+

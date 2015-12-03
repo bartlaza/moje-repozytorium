@@ -1,0 +1,19 @@
+
+# include <iostream.h>
+
+main()
+{
+int a,c;
+
+
+cout<<"Podaj wartosc a : ";
+cin>>a;
+
+c=2*a;
+cout<<endl;
+if (c==0) cout<<"BLAD : dzielenie przez zero";
+else cout<<"Wynik wynosi : "<<(5*a+1)/2*a;
+
+}
+
+

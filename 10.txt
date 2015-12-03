@@ -1,0 +1,23 @@
+# include <iostream.h>
+# include <stdio.h>
+# include <conio.h>
+# include <math.h>
+
+main()
+{
+ clrscr;
+ int x,y,i;
+
+ cout<<"Podaj wysokosc ramki         : ";cin>>y;
+ cout<<"Podaj dlugosc podstawy ramki : ";cin>>x;
+ cout<<endl;
+ for (i=1;i<=x;i++) cout<<"*";
+ for (i=2;i<=y;i++)
+	  {
+		gotoxy(1,i+2);cout<<"*";
+		gotoxy(x,i+2);cout<<"*";
+	  }
+	  cout<<endl;
+ for (i=1;i<=x;i++) cout<<"*";
+}
+
