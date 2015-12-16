@@ -1,6 +1,6 @@
 #include<iostream.h>
 
-int NWD(unsigned long a, unsigned long b)
+int NWD(unsigned long a, unsigned long b)XXXXXXXXXXXXXXX
 {
   while(a != b) if(a > b) a -= b; else b -= a;
   return(a);
