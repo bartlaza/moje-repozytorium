@@ -3,7 +3,7 @@
 
 main()
 {
-int max,liczba;
+int max,liczba;YYYYYYYYYYYYYYYYYY
 
 
 cout<<"podaj wartosci:"<<endl;
