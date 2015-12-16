@@ -15,4 +15,4 @@ for (int i=l1;i<=l2;i++)
 	 }
 cout<<"Suma kwadratow liczb z zakrsu : "<<suma;
 }
-
+komwnewhriufdfds
