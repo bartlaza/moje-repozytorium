@@ -1,6 +1,6 @@
 #include<iostream.h>
 
-main()
+main()hfhfhfhfjhjhgjghjgh
 {
 int l1,l2;
 cout<<"Podaj liczbe 1 : ";
