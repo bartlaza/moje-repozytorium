@@ -1,6 +1,6 @@
 #include<iostream.h>
 
-main()
+main()hfhfhfhfjhjhgjghjgh
 {
 int l1,l2;
 cout<<"Podaj liczbe 1 : ";
@@ -15,4 +15,4 @@ for (int i=l1;i<=l2;i++)
 	 }
 cout<<"Suma kwadratow liczb z zakrsu : "<<suma;
 }
-
+komwnewhriufdfds
